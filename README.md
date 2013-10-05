@@ -1,4 +1,9 @@
-Simple tool to set the sensitivity of the Thinkpad pointer.
+fastpointer
+===========
+
+Set the speed and sensitivity of the Thinkpad pointer
+
+    fastpointer --help
 
     Usage of fastpointer:
       -sensitivity=250: Pointer sensitivity
